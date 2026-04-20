@@ -12,6 +12,9 @@ A React Native crypto portfolio tracker app built with Expo.
 - React Native (Expo)
 - React Navigation (Bottom Tabs)
 - CoinGecko Public API
+
+## Screenshots
+Coming soon
 - React Hooks (useState, useEffect)
 
 ## Screens
